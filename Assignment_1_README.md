@@ -1,4 +1,4 @@
-# COMP_340
+# MYSHELL.C
 
 The code is a command-line interpreter that prompts the user for input, processes the input as a command, and executes the command. Each time the interpreter prompts the user for input, it also prints the current time. The interpreter continues to prompt the user for input until the user enters "exit".
 
